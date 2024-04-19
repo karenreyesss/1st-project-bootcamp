@@ -17,11 +17,40 @@ How many users are there in each state? Popularity of each loan purpose, mean an
 Are there factors that help to have a revenue growth model with lower risk of increasing revenue?
 What’s an approach to risk assessment and product categorization based on loan grades and sub-grades.
 
-## Demographic Analysis
+## Popularity of purpose for loans
+Purpose of loan: This wordcloud reflects the popularity, based on the amount of users who reported the purpose of their loans, of each type of loan. 
+In this case, the top five most popular reasons for getting a loan were: Debt consolidation, Credit card refinancing, Home improvement, Major purchase, and Other. 
+This means most users take out loans to repay other loans they may have.
 
+This wordcloud was created to visually determine what are the reasons why users take out loans the most.
 
+![image](https://github.com/karenreyesss/1st-project-bootcamp/assets/159064511/c838aef9-0892-40f3-9c39-75e084aa2107)
+
+## Number of users by State
+Number of users: This is the number of users who have taken out loans. 
+
+We wanted to determine how many users there were in each state in the US, we found that states like California and Florida have the most users in the US. 
+Some further analysis may be needed to determine if there is a correlation between the hispanic population and the number of loans, do this community rely heavily on loans? 
+
+The data from the US Census states that the top three states with the largest hispanic population are California, Texas, and Florida. 
+
+The dataset provided did not have this information, but it might've been an interesting analysis to see how this might be related, or perhaps not at all. 
+
+![image](https://github.com/karenreyesss/1st-project-bootcamp/assets/159064511/6af39464-afc6-4f7c-bf64-cbf5173a1c75)
+
+## Mean annual income by state
+Mean annual income: This data is the average income earned by individuals over the course of a year.
+We then compared this data by each state in the US to determine where in the country is where there might be more money in the country, hoping they might be more inclined to pay up their loans; or on the contrary, this graph might be useful to see which states have the lowest mean annual income, probable meaning they may be inclined to take out loans.
+
+![image](https://github.com/karenreyesss/1st-project-bootcamp/assets/159064511/5f09aba1-d320-4e5f-a67c-dc715a160446)
 
 ## Loan Amount by Home Ownership
+Loan amount: This is the total amount given on loans
+We compared this data with wether or not users own a place of their own, rent a place, or are paying a mortgage. 
+
+We found that overall, Lending Club is more inclined to give out loans to those who are renting a place instead of those who already own their own place, which might mean that people who are renting a place might be on a tight budget, which might mean that's why they have to take out further loans. 
+
+![image](https://github.com/karenreyesss/1st-project-bootcamp/assets/159064511/18633553-a49b-4c5f-b2bc-d48b6dbe7caf)
 
 ## Total Interest Received by Product
 Debt Consolidation: This category has the highest total interest received, indicating that it’s the most profitable loan purpose for Lending Club. (over $700 million US dollars)
