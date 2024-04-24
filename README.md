@@ -94,3 +94,39 @@ Regardless of the credit grade, most of Lending Club’s loans are used for Cred
 
 These values represent the average risk metric for each loan purpose, which is calculated based on factors like accounts now delinquent, delinquencies in the past two years, and late loan status.
 ![Average_Risk_Metric_for_Each_Title](https://github.com/karenreyesss/1st-project-bootcamp/assets/151306990/0e29ff4e-2e36-4d05-a440-c1deaa35a608)
+
+When analyzing if there was any correlation between Delinquency and other variables we did not found a clear one
+<img width="529" alt="Captura de pantalla 2024-04-23 a las 10 26 49 p m" src="https://github.com/karenreyesss/1st-project-bootcamp/assets/158761988/12e35fa8-81ef-43a1-8bd1-170e9bbc2eef">
+
+
+We analyzed variables such as:
+
+Delinquency vs:
+Annual income.
+If they were home owners. 
+If they had a Mortgage. 
+If they rented.
+Credit purpose. 
+If their credit was verified or not. 
+Their debt consolidation. 
+
+<img width="881" alt="Captura de pantalla 2024-04-23 a las 10 27 35 p m" src="https://github.com/karenreyesss/1st-project-bootcamp/assets/158761988/292af3ed-a497-4492-954e-136e4f8ce406">
+
+
+When we made an analysis by state to see if there were any states above average in delinquency we found 4
+We found states like California, Texas, NY & Florida to be above, the question is whether that’s because they have large populations or their ratio is similar to the other states. 
+<img width="430" alt="Captura de pantalla 2024-04-23 a las 10 27 50 p m" src="https://github.com/karenreyesss/1st-project-bootcamp/assets/158761988/9db2c0da-0c4a-4627-9490-d9c466d18cad">
+
+Most of the population who have asked for a loan in the last 12 months have a uniform use of their credit lines (revol_util)
+There is an abnormal behavior in employment length that we need to address since the data shown only shows ranges from 9.50 to 10.50
+
+
+
+
+
+
+
+
+
+
+
